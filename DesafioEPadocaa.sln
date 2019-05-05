@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioEPadocaa", "DesafioEPadocaa\DesafioEPadocaa.csproj", "{68683F5C-1D07-45D3-B053-1D2B00B4074B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68683F5C-1D07-45D3-B053-1D2B00B4074B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68683F5C-1D07-45D3-B053-1D2B00B4074B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68683F5C-1D07-45D3-B053-1D2B00B4074B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68683F5C-1D07-45D3-B053-1D2B00B4074B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBCBBA0-1652-41A7-9DDA-49827B15EB63}
+	EndGlobalSection
+EndGlobal
